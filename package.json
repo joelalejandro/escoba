@@ -1,0 +1,33 @@
+{
+  "name": "escoba",
+  "version": "1.0.0",
+  "description": "A card game.",
+  "main": "dist/escoba.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joelalejandro/escoba.git"
+  },
+  "keywords": [
+    "game",
+    "cards",
+    "escoba",
+    "argentina"
+  ],
+  "author": "Joel A. Villarreal Bertoldi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joelalejandro/escoba/issues"
+  },
+  "homepage": "https://github.com/joelalejandro/escoba#readme",
+  "devDependencies": {
+    "@types/jest": "^23.3.9",
+    "eventemitter3": "^3.1.0",
+    "jest": "^23.6.0",
+    "ts-jest": "^23.10.4",
+    "tslint": "^5.11.0",
+    "typescript": "^3.1.6"
+  }
+}
